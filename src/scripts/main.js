@@ -14,7 +14,7 @@ $.ajax({
 function cohortMembers(list) {
   let data = list.cohort;
   data.forEach(function (item) {
-    let studentContact = `<div class="studentContact">`
+    let studentContact = `<div class="d-flex flex-column mt-auto"><div class="studentContact">`
     //if student doesn't have a portfolio site then don't display the icon
     if (item.portfolio != null) {
 
@@ -45,9 +45,9 @@ function cohortMembers(list) {
     }
     studentContact += `</div>`
 
-    let studentInfo = `<div class="col-md-3 cohortMems">
+    let studentInfo = `<div class="col-md-3 cohortMems d-flex flex-column">
           <img class="card-img-top" src="images/classmates/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
-          <div class="card-body">
+          <div class="card-body d-flex flex-column mh-100">
             <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
     //if student didn't provide a reelthemin quote then nothing is displayed
     if (item.reelThemIn != null) {
@@ -59,11 +59,15 @@ function cohortMembers(list) {
     if(item.bio != null){
 
     studentInfo += `
-            <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
-           Learn More!
-          </button></center>
+            <div class="mt-auto">
+              <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
+                Learn More!
+                  </button>
+              </center>
+            </div>
           </div>
-        </div>`
+        </div>
+      </div>`
     //modal info
     studentInfo +=`
         <div class="modal fade" id="cohortMember${item.id}" tabindex="-1" role="dialog" aria-labelledby="cohortMember${item.id}Label" aria-hidden="true">
@@ -84,13 +88,13 @@ function cohortMembers(list) {
 
 
     studentInfo += `
-      
+
     ${item.bio}
     </div>
     <center><button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">
       Back
               </button></center>
-            
+
           </div >
         </div >
       </div > `;
