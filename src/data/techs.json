@@ -137,6 +137,12 @@
             "name": "UglifyJs",
             "image": "uglify.png",
             "link": "https://www.npmjs.com/package/uglifyjs"
+        },
+        {
+            "id": 24,
+            "name": "Vue",
+            "image": "vue.png",
+            "link": "https://vuejs.org/"
         }
     ]
 }
