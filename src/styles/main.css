@@ -110,8 +110,9 @@ main {
 }
 
 .techs {
-  width: 70px;
-  margin: 20px 0px;
+  width: 60px;
+  max-height: 60px;
+  margin: 1rem 0rem;
 }
 
 .words {
