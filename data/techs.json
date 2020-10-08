@@ -7,7 +7,12 @@
             "link": "https://www.javascript.com/"
         },
       
-       
+        {
+            "id": 2,
+            "name": "React",
+            "image": "reactimage.png",
+            "link": "https://reactjs.org/"
+        },
         {
             "id": 4,
             "name": "Git",
