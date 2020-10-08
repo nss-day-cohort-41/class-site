@@ -11,7 +11,7 @@
             "portfolio": "https://abernethyb.github.io/",
             "email": "brendan.j.abernethy@gmail.com",
             "proImg": "BrendanAbernethy.JPG",
-            "funImg": "BrendanAbernethyFun.JPG"
+            "funImg": "BrendanAbernethyFun.jpg"
         },
         {
             "id": 2,
@@ -50,7 +50,7 @@
             "portfolio": "https://sfreeley.github.io/",
             "email": "liusi33@gmail.com",
             "proImg": "SisiFreeley.JPG",
-            "funImg": "SisiFreeleyFun.JPG"
+            "funImg": "SisiFreeleyFun.jpg"
         },
         {
             "id": 5,
@@ -128,7 +128,7 @@
             "portfolio": "https://mandask.github.io/",
             "email": "king.amanda.r@gmail.com",
             "proImg": "AmandaKing.jpg",
-            "funImg": "AmandaKingFun.jpg"
+            "funImg": "AmandaKingFun.JPG"
         },
         {
             "id": 11,
@@ -219,7 +219,7 @@
             "portfolio": "https://robmixon.github.io/",
             "email": "MixonRobertH@Gmail.com",
             "proImg": "RobMixon.JPG",
-            "funImg": "RobMixonFun.png"
+            "funImg": "RobMixonFun.PNG"
         },
         {
             "id": 18,
@@ -323,7 +323,7 @@
             "portfolio": "https://beatleytqd.github.io/",
             "email": "brandon.a.wheatley@gmail.com",
             "proImg": "BrandonWheatley.jpg",
-            "funImg": "BrandonWheatleyFun.jpg"
+            "funImg": "BrandonWheatleyFun.JPG"
         }
     ]
 }
