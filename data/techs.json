@@ -7,12 +7,7 @@
             "link": "https://www.javascript.com/"
         },
       
-        {
-            "id": 3,
-            "name": "jQuery",
-            "image": "jquery.png",
-            "link": "https://jquery.com/"
-        },
+       
         {
             "id": 4,
             "name": "Git",
