@@ -6,9 +6,8 @@ html,
 body {
   max-width: 100%;
   overflow-x: hidden;
-  background: url('../images/background.jpg') fixed no-repeat;
-  background-size: 100%;
-  background-color: black;
+  background-color: #dfdfdf;
+  
 }
 
 blockquote {
@@ -23,7 +22,7 @@ blockquote {
   padding: 20px;
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top {
-  background: white !important;
+  background: #f68B1F !important;
 }
 .navbar-brand {
   display: flex;
@@ -34,20 +33,20 @@ blockquote {
 
 #cohort22 {
   display: inline-block;
-  color: #238193;
+  color: #000029;
 }
 
 #jumbheader {
   box-shadow: 2px 2px 2px rgb(167, 166, 166);
-  background-color: #238193 !important;
-  color: lightgray;
+  background-color: #f68B1F !important;
+  color: #DFDFDF;
 }
 .header-text {
   margin: 0 auto;
   padding-top: 10px;
   font-weight: bold;
   height: 50px;
-  color: white;
+  color: #dfdfdf;
 }
 
 .title-font {
@@ -88,9 +87,9 @@ main {
 }
 
 .col-md-3.cohortMems {
-  border: 1px solid lightgray;
+  border: 1px solid #DFDFDF;
   border-radius: 10px;
-  box-shadow: 2px 2px 2px lightgray;
+  box-shadow: 2px 2px 2px #DFDFDF;
   margin: 10px;
   margin-bottom: 25px;
   background: white;
@@ -149,15 +148,15 @@ main {
 }
 
 .contactIcons {
-  color: #238193;
+  color: #000029;
 }
 .contactIcons:hover {
   transform: scale(1.2);
 }
 
 .modal-header {
-  background-color: lightgray !important;
-  color: #238193;
+  background-color: #DFDFDF !important;
+  color: #000029;
 }
 
 .modal-body img {
@@ -174,8 +173,8 @@ main {
 .navbar.navbar-light.bg-light.footer {
   margin-top: 10px;
   font-size: 1em;
-  background-color: #238193 !important;
-  color: white;
+  background-color: #f68B1F !important;
+  color: dfdfdf;
 }
 
 #demo-date {
@@ -183,20 +182,20 @@ main {
 }
 
 #demo-date a {
-  color: #238193 !important;
+  color: #000029 !important;
 }
 
 button {
   cursor: pointer;
 }
 .btn-outline-primary {
-  color: #238193 !important;
-  border-color: #238193 !important;
+  color: #000029 !important;
+  border-color: #000029 !important;
 }
 
 .btn-outline-primary:hover {
-  color: white !important;
-  background-color: #238193 !important;
+  color: #DFDFDF !important;
+  background-color: #000029 !important;
 }
 
 /* adjusts size of contact icons depending on size of card */
@@ -228,7 +227,7 @@ button {
     font-size: 1em;
   }
   .jumbotron.jumbotron-fluid img {
-    background: white;
+    background: dfdfdf;
     margin-top: 100px;
   }
   .jumbotron.jumbotron-fluid.sm-width {
