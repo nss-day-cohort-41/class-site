@@ -11,7 +11,7 @@
             "portfolio": "https://abernethyb.github.io/",
             "email": "brendan.j.abernethy@gmail.com",
             "proImg": "BrendanAbernethy.JPG",
-            "funImg": "BrendanAbernethyFun.jpg"
+            "funImg": null
         },
         {
             "id": 2,
@@ -271,7 +271,7 @@
             "portfolio": "http://jamessushum.com",
             "email": "sushumjames@gmail.com",
             "proImg": "JamesSuShum.jpg",
-            "funImg": "JamesSuShumFun.png"
+            "funImg": null
         },
         {
             "id": 22,
@@ -297,8 +297,7 @@
             "portfolio": null,
             "email": "Gavinswofford@gmail.com",
             "proImg": "GavinSwofford.JPG",
-            "funImg": "GavinSwoffordFun.JPG"
-        },
+            "funImg": null
         {
             "id": 24,
             "firstName": "Lacey",
