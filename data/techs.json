@@ -6,12 +6,7 @@
             "image": "javascript.png",
             "link": "https://www.javascript.com/"
         },
-        {
-            "id": 2,
-            "name": "AngularJS",
-            "image": "angularjs.png",
-            "link": "https://angularjs.org/"
-        },
+      
         {
             "id": 3,
             "name": "jQuery",
@@ -30,12 +25,7 @@
             "image": "github.png",
             "link": "https://github.com/"
         },
-        {
-            "id": 6,
-            "name": "Grunt",
-            "image": "grunt.png",
-            "link": "https://gruntjs.com/"
-        },
+       
         {
             "id": 7,
             "name": "HTML5",
@@ -48,48 +38,28 @@
             "image": "css3.png",
             "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
         },
-        {
-            "id": 9,
-            "name": "Sass",
-            "image": "sass.png",
-            "link": "https://sass-lang.com/"
-        },
+      
         {
             "id": 10,
             "name": "Bootstrap",
             "image": "bootstrap.png",
             "link": "https://getbootstrap.com/"
         },
-        {
-            "id": 11,
-            "name": "Browserify",
-            "image": "browserify.png",
-            "link": "http://browserify.org/"
-        },
+       
         {
             "id": 12,
             "name": "Firebase",
             "image": "firebase.png",
             "link": "https://firebase.google.com"
         },
-        {
-            "id": 13,
-            "name": "Materialize",
-            "image": "materialize.png",
-            "link": "http://materializecss.com/"
-        },
+        
         {
             "id": 14,
             "name": "NPM",
             "image": "npm.png",
             "link": "https://www.npmjs.com/"
         },
-        {
-            "id": 15,
-            "name": "SQLite3",
-            "image": "sqlite.png",
-            "link": "https://www.sqlite.org/"
-        },
+       
         {
             "id": 16,
             "name": "SQL Server",
@@ -125,24 +95,9 @@
             "name": ".Net MVC",
             "image": "aspnetMVC.png",
             "link": "https://www.asp.net/mvc"
-        },
-        {
-            "id": 22,
-            "name": "ES lint",
-            "image": "eslint.png",
-            "link": "https://eslint.org/"
-        },
-        {
-            "id": 23,
-            "name": "UglifyJs",
-            "image": "uglify.png",
-            "link": "https://www.npmjs.com/package/uglifyjs"
-        },
-        {
-            "id": 24,
-            "name": "Vue",
-            "image": "vue.png",
-            "link": "https://vuejs.org/"
         }
+        
+       
+       
     ]
 }
