@@ -217,11 +217,15 @@ button {
         background: url("../assets/images/bg.jpg") repeat;
     } */
 
+    .navbar-brand {
+      display: none;
+    }
+
   .navbar {
     display: flex;
   }
   #cohort22 {
-    font-size: 1.2em;
+    font-size: 1em;
   }
   .jumbotron.jumbotron-fluid img {
     background: white;
