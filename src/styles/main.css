@@ -1,5 +1,6 @@
 p {
   font-family: 'Barlow', sans-serif;
+  color: #000029 !important;
 }
 
 html,
@@ -21,8 +22,13 @@ blockquote {
   background-color: rgb(55, 55, 56);
   padding: 20px;
 }
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+  color: #000029 !important;
+}
+
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top {
   background: #f68B1F !important;
+  color: #000029 !important;
 }
 .navbar-brand {
   display: flex;
@@ -33,25 +39,26 @@ blockquote {
 
 #cohort22 {
   display: inline-block;
-  color: #000029;
+  color: #000029 !important;
 }
 
 #jumbheader {
   box-shadow: 2px 2px 2px rgb(167, 166, 166);
   background-color: #f68B1F !important;
-  color: #DFDFDF;
+  color: #000029 !important;
 }
 .header-text {
   margin: 0 auto;
   padding-top: 10px;
   font-weight: bold;
   height: 50px;
-  color: #dfdfdf;
+  color: #000029 !important;
 }
 
 .title-font {
   text-align: center;
   vertical-align: middle;
+  color: #000029;
 }
 
 .logo {
@@ -174,7 +181,7 @@ main {
   margin-top: 10px;
   font-size: 1em;
   background-color: #f68B1F !important;
-  color: dfdfdf;
+  color: #000029 !important;
 }
 
 #demo-date {
@@ -227,7 +234,7 @@ button {
     font-size: 1em;
   }
   .jumbotron.jumbotron-fluid img {
-    background: dfdfdf;
+    background: #dfdfdf;
     margin-top: 100px;
   }
   .jumbotron.jumbotron-fluid.sm-width {
@@ -240,6 +247,7 @@ button {
   .header-text h2 {
     font-size: 1.5em;
     margin-top: -10px;
+    color: #000029 !important;
   }
   .modal-body {
     display: block;
