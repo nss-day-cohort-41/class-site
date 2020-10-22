@@ -169,19 +169,7 @@
             "proImg": "ErikLindstrom.jpg",
             "funImg": "ErikLindstromFun.jpg"
         },
-        {
-            "id": 14,
-            "firstName": "Faith",
-            "lastName": "Magras",
-            "reelThemIn": "\"If debugging is the art of removing bugs, then programming must be the art of inserting them.\" -Unknown",
-            "bio": "<p>Before beginning Software development, I specialized in Video Editing. I hope to integrate the two so that I may be able to develop solutions that incorporate a new dimension of interaction. After doing some independent studies, I enrolled at NSS to formalize my education in software development. I look forward to this journey as a software developer, and positively contributing to the Nashville Tech Community.</p>",
-            "github": "https://github.com/bdanielle092",
-            "linkedIn": "https://www.linkedin.com/in/faith-magras/",
-            "portfolio": "https://bdanielle092.github.io/#/about",
-            "email": "bdanielle092@gmail.com",
-            "proImg": "FaithMagras.jpg",
-            "funImg": "FaithMagrasFun.png"
-        },
+        
         {
             "id": 15,
             "firstName": "Christopher",
