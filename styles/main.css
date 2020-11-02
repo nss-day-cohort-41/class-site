@@ -186,6 +186,7 @@ main {
 }
 
 button {
+  margin-bottom: .5em;
   cursor: pointer;
 }
 .btn-outline-primary {
@@ -258,4 +259,6 @@ button {
   .navbar-brand img {
     padding-right: none;
   }
+
+ 
 }
