@@ -11,7 +11,8 @@
             "portfolio": "https://abernethyb.github.io/",
             "email": "brendan.j.abernethy@gmail.com",
             "proImg": "BrendanAbernethy.JPG",
-            "funImg": null
+            "funImg": null,
+            "capstone": null
         },
         {
             "id": 2,
@@ -24,7 +25,8 @@
             "portfolio": "https://davidbrucetn.github.io",
             "email": "davidbrucetn@gmail.com",
             "proImg": "DavidBruce.jpg",
-            "funImg": "DavidBruceFun.png"
+            "funImg": "DavidBruceFun.png",
+            "capstone": null
         },
         {
             "id": 3,
@@ -37,7 +39,8 @@
             "portfolio": "https://KelleyCrittenden.github.io/",
             "email": "kelleylcrittenden@gmail.com",
             "proImg": "KelleyCrittenden.jpg",
-            "funImg": "KelleyCrittendenFun.png"
+            "funImg": "KelleyCrittendenFun.png",
+            "capstone": null
         },
         {
             "id": 4,
@@ -50,7 +53,8 @@
             "portfolio": "https://sfreeley.github.io/",
             "email": "liusi33@gmail.com",
             "proImg": "SisiFreeley.JPG",
-            "funImg": "SisiFreeleyFun.jpg"
+            "funImg": "SisiFreeleyFun.jpg",
+            "capstone": null
         },
         {
             "id": 5,
@@ -63,7 +67,8 @@
             "portfolio": "https://drewharper.com",
             "email": "druharper@gmail.com",
             "proImg": "DrewHarper.jpg",
-            "funImg": "DrewHarperFun.jpg"
+            "funImg": "DrewHarperFun.jpg",
+            "capstone": null
         },
         {
             "id": 6,
@@ -76,7 +81,8 @@
             "portfolio": "https://johnhester.github.io",
             "email": "john.maxwell.hester@gmail.com",
             "proImg": "JohnHester.jpg",
-            "funImg": "JohnHesterFun.png"
+            "funImg": "JohnHesterFun.png",
+            "capstone": null
         },
         {
             "id": 7,
@@ -89,7 +95,8 @@
             "portfolio": "https://tylerghilliard94.github.io/",
             "email": "tylerghilliard@gmail.com",
             "proImg": "TylerGreyHilliard.jpg",
-            "funImg": "TylerHilliardFun.JPG"
+            "funImg": "TylerHilliardFun.JPG",
+            "capstone": null
         },
         {
             "id": 8,
@@ -102,7 +109,8 @@
             "portfolio": "",
             "email": "anthonydjohnson@gmail.com",
             "proImg": "AnthonyJohnson.png",
-            "funImg": "AnthonyJohnsonFun.jpg"
+            "funImg": "AnthonyJohnsonFun.jpg",
+            "capstone": null
         },
         {
             "id": 9,
@@ -115,7 +123,8 @@
             "portfolio": "http://www.thechadjones.com",
             "email": "chadjones839@gmail.com",
             "proImg": "ChadJones.jpg",
-            "funImg": "ChadJonesFun.jpg"
+            "funImg": "ChadJonesFun.jpg",
+            "capstone": null
         },
         {
             "id": 10,
@@ -128,7 +137,8 @@
             "portfolio": "https://mandask.github.io/",
             "email": "king.amanda.r@gmail.com",
             "proImg": "AmandaKing.jpg",
-            "funImg": "AmandaKingFun.JPG"
+            "funImg": "AmandaKingFun.JPG",
+            "capstone": null
         },
         {
             "id": 11,
@@ -141,7 +151,8 @@
             "portfolio": "https://tlane77.github.io/",
             "email": "designtmg77@gmail.com",
             "proImg": "TashaLane.JPG",
-            "funImg": "TashaLaneFun.png"
+            "funImg": "TashaLaneFun.png",
+            "capstone": null
         },
         {
             "id": 12,
@@ -154,7 +165,8 @@
             "portfolio": "http://www.davidplarsen.com",
             "email": "davidplarsen@gmail.com",
             "proImg": "DavidLarsen.jpg",
-            "funImg": "DavidLarsenFun.jpg"
+            "funImg": "DavidLarsenFun.jpg",
+            "capstone": null
         },
         {
             "id": 13,
@@ -167,9 +179,9 @@
             "portfolio": null,
             "email": "elindstrom42@gmail.com",
             "proImg": "ErikLindstrom.jpg",
-            "funImg": "ErikLindstromFun.jpg"
+            "funImg": "ErikLindstromFun.jpg",
+            "capstone": null
         },
-        
         {
             "id": 15,
             "firstName": "Christopher",
@@ -181,7 +193,8 @@
             "portfolio": null,
             "email": "mccolganchrisj@gmail.com",
             "proImg": "ChristopherMccolgan.jpg",
-            "funImg": "ChristopherMcolganFun.png"
+            "funImg": "ChristopherMcolganFun.png",
+            "capstone": null
         },
         {
             "id": 16,
@@ -194,7 +207,8 @@
             "portfolio": "https://zachmcwhirter.github.io/",
             "email": "zmac7811@gmail.com",
             "proImg": "ZachMcWhirter.jpg",
-            "funImg": "ZachMcWhirterFun.jpg"
+            "funImg": "ZachMcWhirterFun.jpg",
+            "capstone": null
         },
         {
             "id": 17,
@@ -207,7 +221,8 @@
             "portfolio": "https://robmixon.github.io/",
             "email": "MixonRobertH@Gmail.com",
             "proImg": "RobMixon.JPG",
-            "funImg": "RobMixonFun.PNG"
+            "funImg": "RobMixonFun.PNG",
+            "capstone": null
         },
         {
             "id": 18,
@@ -220,7 +235,8 @@
             "portfolio": null,
             "email": "engine_ear@mac.com",
             "proImg": "PatrickMurphy.jpg",
-            "funImg": "PatrickMurphyFun.jpg"
+            "funImg": "PatrickMurphyFun.jpg",
+            "capstone": null
         },
         {
             "id": 19,
@@ -233,7 +249,8 @@
             "portfolio": "https://jonrrile.github.io/",
             "email": "Jonrrile@ut.utm.edu",
             "proImg": "JonathanRiley.jpg",
-            "funImg": "JonathanRileyFun.png"
+            "funImg": "JonathanRileyFun.png",
+            "capstone": null
         },
         {
             "id": 20,
@@ -246,7 +263,8 @@
             "portfolio": "https://bstoudt01.github.io/",
             "email": "BStoudt01@gmail.com",
             "proImg": "BrettStoudt.jpg",
-            "funImg": "BrettStoudtFun.jpg"
+            "funImg": "BrettStoudtFun.jpg",
+            "capstone": null
         },
         {
             "id": 21,
@@ -259,7 +277,8 @@
             "portfolio": "http://jamessushum.com",
             "email": "sushumjames@gmail.com",
             "proImg": "JamesSuShum.jpg",
-            "funImg": null
+            "funImg": null,
+            "capstone": null
         },
         {
             "id": 22,
@@ -272,7 +291,8 @@
             "portfolio": "https://triggsumms.github.io/",
             "email": "stsumms@gmail.com",
             "proImg": "TriggSumms.jpg",
-            "funImg": "TriggSummsFun.png"
+            "funImg": "TriggSummsFun.png",
+            "capstone": null
         },
         {
             "id": 23,
@@ -285,20 +305,8 @@
             "portfolio": null,
             "email": "Gavinswofford@gmail.com",
             "proImg": "GavinSwofford.JPG",
-            "funImg": null
-        },
-        {
-            "id": 24,
-            "firstName": "Lacey",
-            "lastName": "Walker",
-            "reelThemIn": "\"If you look for the light, you can often find it. But if you look for the dark, that is all you will ever see.\" - Iroh",
-            "bio": "<p>Throughout my life, I have always gravitated to hobbies that involve a lot of tinkering. When a few good friends introduced me to software development, I was instantly hooked. I love being able to express my creativity, and I find that software development has been a great outlet for it. A few years ago, I noticed I was my happiest while coding, so I decided to officially make the career change. I love being immersed in problem solving and figuring out how it all needs to come together! </p>",
-            "github": "https://github.com/laceywalkerr",
-            "linkedIn": "https://www.linkedin.com/in/laceywalker/",
-            "portfolio": "https://laceywalkerr.github.io/",
-            "email": "LaceyMWalker@gmail.com",
-            "proImg": "LaceyWalker.jpg",
-            "funImg": "LaceyWalkerFun.jpg"
+            "funImg": null,
+            "capstone": null
         },
         {
             "id": 25,
@@ -311,7 +319,8 @@
             "portfolio": "https://beatleytqd.github.io/",
             "email": "brandon.a.wheatley@gmail.com",
             "proImg": "BrandonWheatley.jpg",
-            "funImg": "BrandonWheatleyFun.JPG"
+            "funImg": "BrandonWheatleyFun.JPG",
+            "capstone": null
         }
     ]
 }
